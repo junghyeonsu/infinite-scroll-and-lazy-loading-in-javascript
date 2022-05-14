@@ -1,6 +1,6 @@
 import SomeContents from './components/SomeContents.js';
 import LazyLoadingImage from './components/LazyLoadingImage.js';
-import Observer from './components/Observer.js';
+import InfiniteScroll from './components/InfiniteScroll.js';
 import Image from './components/Image.js';
 
 class App {
@@ -9,7 +9,7 @@ class App {
     this.$someContents = new SomeContents($target);
     this.$lazyLoadingImage = new LazyLoadingImage($target);
     this.$image = new Image($target);
-    this.$observer = new Observer($target, this.$image.appendImage.bind(this.$image));
+    this.$infiniteScroll = new InfiniteScroll($target, this.$image.appendImage.bind(this.$image));
   }
 }
 
