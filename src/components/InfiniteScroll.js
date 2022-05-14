@@ -9,7 +9,7 @@ class Observer {
         if (!entry.isIntersecting) return;
 
         onIntersecting();
-        console.log('Dynamic Image Request');
+        console.log('Infinite Scroll Get Image');
       });
     });
 
