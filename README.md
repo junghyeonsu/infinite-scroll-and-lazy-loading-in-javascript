@@ -4,4 +4,4 @@
 
 # 데모 영상
 
-![lazy and infinite scrolling](./public/lazyAndInfinite.gif)
+![lazy and infinite scrolling](./public/lazy-and-infinite.gif)

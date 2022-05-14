@@ -1,0 +1,36 @@
+.big-block {
+  width: 100vw;
+}
+
+.observer-target {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  width: 100vw;
+  height: 10vh;
+  background-color: rgb(233, 255, 152);
+}
+
+.lazy-loading {
+  width: 100vw;
+  height: 50vh;
+  background-color: rgb(174, 217, 255);
+}
+
+.cat-image {
+  width: 100vw;
+  height: 50vh;
+  background-color: aliceblue;
+  object-fit: contain;
+}
+
+.something {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 32px;
+  width: 100vw;
+  height: 100vh;
+  background-color: aquamarine;
+}
