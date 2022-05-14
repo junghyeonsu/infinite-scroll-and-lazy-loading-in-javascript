@@ -1,2 +1,7 @@
-# infinite-scroll-and-lazy-loading-in-javascript
-Intersection Observer를 이용해서 Infinite Scroll과 Lazy Loading 적용하기
+# Lazy Loading & Infinite Scrolling 구현하기
+
+> Intersection Observer를 사용해서 Lazy Loading & Infinite Scrolling 구현하기
+
+# 데모 영상
+
+![lazy and infinite scrolling](./public/lazyAndInfinite.gif)
